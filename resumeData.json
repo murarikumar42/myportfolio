@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"Hi, I am Murari",
+    "description":"Analog by Birth, Digital by Design",
+    "image":"profilepic.png",
+    "bio":"I am a dedicated Java Full Stack Developer with Frontend in ReactJs. I am very enthusiatic and highly motivated to learn new technology.",
+    "contactmessage":"Ready for immediate chat and interview...",
+    "email": "murarikumar42@gmail.com",
+    "phone": "+91-858-108-7248",
+    "github":"https://github.com/murarikumar42",
+    "project":"https://github.com/murarikumar42/myportfolio.git",
+    "address":{
+      "street":"Indrukh",
+      "city":"Halimpur",
+      "state":"Bihar",
+      "zip": "811214 "
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1sYYU1NZsAEWJwAPFkr-q6_RcQkwjZrGv/view?usp=sharing",
+    "social":[
+     
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Murari64189145",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/murarikumar42/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/murarikumar42",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Check out my skills for various technologies...",
+    "education":[
+      {
+        "school":"Haldia Institute of Technology,Haldia",
+        "degree":"B.Tech in Information Technology",
+        "graduated":"Aug 2021",
+        "description":"Learned to manage time and money. Acquired skills in web developement."
+      },
+      {
+        "school":"Chinmaya Vidyalaya,Bokaro Steel City",
+        "degree":"Senior Secondary,CBSE",
+        "graduated":"May 2016",
+        "description":"Focused on 'Out of Box' thinking. Made me self motivated person. Acquired skills in Effective Oral and Written Communication"
+      }
+    ],
+    "work":[
+      {
+        "company":"Infosys Ltd.",
+        "title":"Intern at Infosys",
+        "years":"Feb-2021 - Present",
+        "description":"Part of Infosys as Final Semester Project-cum-Training Program,  working on technology like Java(Spring boot,Hibernate) for backend and Html,css,Bootstrap,Typescript and Angular for Frontend."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Spring boot",
+        "level":"80%"
+      },
+      {
+        "name":"Hibernate",
+        "level":"60%"
+      },
+      {
+        "name":"Mysql Database",
+        "level":"70%"
+      },
+      {
+        "name":"Jdbc, Servlet-Jsp",
+        "level":"50%"
+      },
+      {
+        "name":"html-css-Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"Typescript",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Tools-Maven, Git, Tomcat, Gradle, Eclipse, Junit",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Besocial-Social-network",
+        "category":"Social Web app to connect,post and chat with friends",
+        "image":"besocial.png",
+        "url":"https://github.com/murarikumar42/Besocial-social-network"
+      },
+      {
+        "title":"Murari_portfolio",
+        "category":"My portfolio application",
+        "image":"myportfolio.png",
+        "url":"https://github.com/murarikumar42/murari_portfolio"
+      },
+      {
+        "title":"Tech Blog",
+        "category":"A technical blog on crud operation",
+        "image":"techblog.png",
+        "url":"https://github.com/murarikumar42/TechBlog"
+      }
+    ]
+  }
+}
